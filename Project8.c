@@ -175,7 +175,7 @@ T[aa].ct=j+1;
 
 printf("\nTotal time spent on queries is %d Minutes \n",tt+tts);
 
-printf("\nAverage Query time is %d Minutes \n",(tt+tts));
+printf("\nAverage Query time is %d Minutes \n",(tt+tts)/2);
 
 }
 
